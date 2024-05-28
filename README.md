@@ -1,16 +1,15 @@
-## Hi there 👋
+## welcome to my profile 🔆
 
-<!--
-**mightny/mightny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is mightny
 
-Here are some ideas to get you started:
+- currently studing at [alura](https://www.alura.com.br)
+- developing skills in JavaScript
+- i am currently using this space for organization and share my developed projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### you can make contact with me 📫
+
+mightny@gmail.com
+
+
+
+![](https://media1.tenor.com/m/1cbzhT0TKTMAAAAd/cat-asleep.gif)
